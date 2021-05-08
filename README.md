@@ -120,11 +120,11 @@ You can help to make the project better, check out [http://gorm.io/contribute.ht
 
 # Author
 
-**jinzhu**
+**conku**
 
-- <http://github.com/jinzhu>
+- <http://github.com/conku>
 - <wosmvp@gmail.com>
-- <http://twitter.com/zhangjinzhu>
+- <http://twitter.com/zhangconku>
 
 ## License
 
